@@ -1,0 +1,109 @@
+baseURL: https://lolmomonga.net
+languageCode: ja
+title: LOL MOMONGA
+theme: PaperMod
+
+paginate: 12
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+googleAnalytics: G-BJBYSZVE8L
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: LOL MOMONGA
+  description: "ももんがたちがLoLの流行を知るために夜な夜なRedditのLOL記事を２ちゃん風にして収集してるよ。たのしいよ。"
+  keywords: [LeagueOfLegends, LoL, Reddit]
+  author: SugarGliders
+  images: ["/images/momonga_opengraph.png"]
+  DateFormat: "2024/2/2"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: LOL MOMONGA
+    subtitle: "ろるももんがだよ"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "モモンガによるLoLモモンガのためのサイト"
+    Content: "ももんがたちが今日もせっせとLoLの流行を知るために、夜な夜なRedditのLOL記事を２ちゃん風にして収集してるよ。たのしいよ。"
+
+    Image: "/images/momonga_opengraph.png"
+  socialIcons:
+    - name: github
+      url: "https://github.com/Adiply2018"
+    - name: discord
+      url: "https://discord.gg/CfjKuDjqW9"
+    - name: other
+      url: "https://www.op.gg/summoners/jp/Sugar%20Gliders-SUGAR"
+
+  assets:
+    #disableHLJS: true # to disable highlight.js
+    #disableFingerprinting: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/favicon.png"
+    safari_pinned_tab: "/favicon.png"
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: Tags
+      name: tags
+      url: /tags/
+      weight: 25
+    - identifier: Archives
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
