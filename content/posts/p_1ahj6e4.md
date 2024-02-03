@@ -23,7 +23,7 @@ cover:
 
 ---
 **Hecarim@幽霊騎士** <2024-02-03 09:40>  
-{{< youtube QkJTzW7zZ3U?si=op3N5NyWBLeNyT3w >}}
+{{< youtube QkJTzW7zZ3U >}}
   
 
 ---
