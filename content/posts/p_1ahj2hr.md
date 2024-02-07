@@ -15,8 +15,7 @@ searchHidden: false
 ShowReadingTime: true
 ShowWordCount: true
 
-images: 
-    - "/images/i_1ahj2hr.png"
+images: ["/images/i_1ahj2hr.png"]
 
 cover:
     image: "/images/i_1ahj2hr.png"
