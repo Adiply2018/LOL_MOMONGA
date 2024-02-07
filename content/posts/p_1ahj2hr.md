@@ -14,6 +14,8 @@ canonicalURL: "https://lolmomonga.net/posts/p_1ahj2hr/"
 searchHidden: false
 ShowReadingTime: true
 ShowWordCount: true
+params:
+  images: ["/images/i_1ahj2hr.png"]
 cover:
     image: "/images/i_1ahj2hr.png"
     alt: ""
