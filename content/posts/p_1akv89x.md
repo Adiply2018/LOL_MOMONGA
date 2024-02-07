@@ -8,8 +8,8 @@ author: ["ZED-MOMONGA","MOMO&Willump","MOMONGAROBO",]
 draft: false
 hidemeta: false 
 comments: false
-description: "TLのUmTiが昨年無職だったのはPyosikのせい: "彼がTLに来た時、私は'ああ、しまった'と思った""
-summary: "TLのUmTiが昨年無職だったのはPyosikのせい: "彼がTLに来た時、私は'ああ、しまった'と思った""
+description: 'TLのUmTiが昨年無職だったのはPyosikのせい: "彼がTLに来た時、私は"ああ、しまった"と思った"'
+summary: 'TLのUmTiが昨年無職だったのはPyosikのせい: "彼がTLに来た時、私は"ああ、しまった"と思った"'
 canonicalURL: "https://lolmomonga.net/posts/p_1akv89x/"
 searchHidden: false
 ShowReadingTime: true
