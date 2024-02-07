@@ -1,5 +1,5 @@
 ---
-title: "TL UmTiが去年無職だったのはPYOSIKのせいだって: "彼がTLに来て俺は「おいしまった...」ってなった""
+title: "TL UmTiが去年無職だったのはPYOSIKのせいだって: 彼がTLに来て俺は「おしまいだ...」ってなった"
 date: 1707285342
 weight: 1
 tags: ["LoL","newから取得"]
