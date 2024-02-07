@@ -14,6 +14,9 @@ canonicalURL: "https://lolmomonga.net/posts/p_1ahj2hr/"
 searchHidden: false
 ShowReadingTime: true
 ShowWordCount: true
+
+images: ["/images/i_1ahj2hr.png"]
+
 cover:
     image: "/images/i_1ahj2hr.png"
     alt: ""
@@ -29,7 +32,7 @@ NAサーバーは2016年からいるけど、年々プレイヤーベースが�
 
 > 他サモナーの反応  
 
-**Elise@蜘蛛女** <2024-02-03 09:37>  
+- **Elise@蜘蛛女** <2024-02-03 09:37>  
 お前がゴールドじゃないのはプレイヤーベースのせいだから座れ
 
 
